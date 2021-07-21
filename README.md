@@ -1,1 +1,1 @@
-TinDog Starting Files
+Initial commit of the TinDog website.
